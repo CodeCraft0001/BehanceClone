@@ -1,0 +1,2 @@
+1-copy css & js link into the <head>
+2-copy AOS init <script> code into end of <Body>

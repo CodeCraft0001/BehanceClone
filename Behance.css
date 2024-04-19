@@ -1,0 +1,54 @@
+.C1{}
+.C3{
+    height: 600px;
+}
+.c4{
+    height: 600px;
+}
+.c5{
+    height: 600px;
+}
+.c6{
+    height: 600px;
+}
+.Sp{
+    
+}
+#A1{
+    color: blue;
+}
+#A0{
+    text-align: center;
+}
+@media(max-width:1300px){
+    #A0{
+        font-weight: 500;
+        font-size: medium;
+    }
+    
+}
+.row{
+    
+    width: 100%;
+}
+.ABC{
+    text-align: center;
+    font-size: 7cqmax;
+    font-weight: bolder;
+    padding-top: 71px;
+    
+}
+.BCD{
+    
+    position: relative;
+}
+
+
+@media(max-width:991px){
+    .BCD{
+        margin-inline: 47px;
+        }
+}
+body{
+    overflow-x: hidden;
+}
