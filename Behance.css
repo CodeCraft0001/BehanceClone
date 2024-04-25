@@ -36,6 +36,10 @@
     font-size: 7cqmax;
     font-weight: bolder;
     padding-top: 71px;
+    font-size: 72px;
+  background: -webkit-linear-gradient(#f1eeee, #473838);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
     
 }
 .BCD{
@@ -51,4 +55,92 @@
 }
 body{
     overflow-x: hidden;
+}
+footer{
+    background-color: black;
+}
+
+.Be{
+    background-color: aquamarine;
+}
+.Be1{
+    background-color: antiquewhite;
+}
+
+.behance-footer {
+    background-color: #222;
+    color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-section {
+    width: 25%;
+    margin-bottom: 20px;
+}
+
+.footer-section h4 {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.footer-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 5px;
+}
+
+.footer-section ul li a {
+    text-decoration: none;
+    color: #f0f0f0;
+}
+
+.footer-section ul li a:hover {
+    color: #00aaff; /* Link hover color */
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+}
+
+.social-icon {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #f0f0f0;
+}
+
+.social-icon:hover {
+    color: #00aaff; /* Social icon hover color */
+}
+
+footer p {
+    margin-top: 20px;
+    font-size: 14px;
+}
+footer{
+    background-color: black;
+    color: white;
+    
+}
+.ND{
+    list-style-type: none;
+    padding-left: 0;
+}
+.CustomHr{
+    width: 100%;
+    height: 3px;
+    background-color: white;
 }
